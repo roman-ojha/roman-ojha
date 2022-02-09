@@ -13,11 +13,11 @@
 <br/>
 
 ### Techinical Skills:
-[<img algin="left" alt="Html" width="35px" src="icons/html.png" target="_blank"/>](https://www.w3schools.com/html/)
-[<img algin="left" alt="Css" width="25px" src="icons/css.png" target="_blank"/>](https://www.w3schools.com/css/)
-[<img algin="left" alt="JS" width="30px" src="icons/js.png" target="_blank"/>](https://www.w3schools.com/js/)
-[<img algin="left" alt="Node" width="50px" src="icons/node.png" target="_blank"/>](https://nodejs.org/en/)
-[<img algin="left" alt="React" width="50px" src="icons/react.png" target="_blank"/>](https://reactjs.org/)
+[<img algin="left" alt="Html" width="35px" src="./icons/html.png" target="_blank"/>](https://www.w3schools.com/html/)
+[<img algin="left" alt="Css" width="25px" src="./icons/css.png" target="_blank"/>](https://www.w3schools.com/css/)
+[<img algin="left" alt="JS" width="30px" src="./icons/js.png" target="_blank"/>](https://www.w3schools.com/js/)
+[<img algin="left" alt="Node" width="50px" src="./icons/node.png" target="_blank"/>](https://nodejs.org/en/)
+[<img algin="left" alt="React" width="50px" src="./icons/react.png" target="_blank"/>](https://reactjs.org/)
 [<img algin="left" alt="nextJS" style="background-color:white; width:30px; height:30px; border-radius:50%; padding:5px;" src="icons/nextJS.png" target="_blank"/>](https://nextjs.org/)
 [<img algin="left" alt="MongoDB" width="35px" src="icons/mongoDB.png" target="_blank"/>](https://www.mongodb.com/)
 [<img algin="left" alt="Sass" width="35px" src="icons/sass.png" target="_blank"/>](https://sass-lang.com/)
