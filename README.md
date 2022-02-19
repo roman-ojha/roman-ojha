@@ -5,10 +5,12 @@
   <img src="image/image01.jpg" style="border-radius:30px; height:300px;"/>
 </p>
 
-- ⚒️ I'm Working on the to build the Flutter & React Application
-- 🌱 I'm currently learning Blockchain development
-- More Info:
-  - I Love to read non-fiction/fiction book
+<div align="center">
+<h3>⚒️ I'm Working on the to build the Flutter & React Application ⚒️</h3>
+<h3>✒️ I'm currently learning Blockchain development ✒️</h3>
+<h3>📖 I Love to read non-fiction/fiction book 📖</h3>
+</div>
+
 <h1 align="center"> 📞 Connect with me 📞</h1>
 
 <div align="center">
