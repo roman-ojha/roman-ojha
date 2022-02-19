@@ -38,4 +38,13 @@
 
 
 <!-- Github Streak -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomanOjha-git&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j&fire=DDA915)](https://git.io/streak-stats)
+## 🎗️ My Profile Info 
+<p align="center">
+    <a href="https://github.com/RomanOjha-git/RomanOjha-git">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true" width = "90%" /></a>
+  </p>
