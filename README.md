@@ -1,18 +1,20 @@
-### Hi I'm Roman 👋
+# Hi I'm Roman 👋
 
-## I'm a Software Developer
+## I'm a Full Stack Web Developer, Flutter App Developr
 - ⚒️ I'm Working on the to build the Flutter & React Application
 - 🌱 I'm currently learning Blockchain development
+- More Info:
+  - I Love to read non-fiction/fiction book
 
 
-### Connect with me:
+## 📞 Connect with me 📞
 [<img algin="left" alt="insta" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman_ojhaa/)
 [<img algin="left" alt="Linkdin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
 [<img algin="left" alt="Twitter" width="26px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
 [<img algin="left" alt="Github" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" style="border-radius:50%" target="_blank"/>](https://github.com/RomanOjha-git)
 <br/>
 
-### Techinical Skills:
+## 💪 Techinical Skills 💪:
 [<img algin="left" alt="Html" width="50px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fhtml.png?alt=media&token=c751d491-1f7c-4ec7-83c6-74860c8309e9" target="_blank"/>](https://www.w3schools.com/html/)
 [<img algin="left" alt="Css" width="35px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fcss.png?alt=media&token=ca527967-12c3-4500-af5e-793b0e158b74" target="_blank"/>](https://www.w3schools.com/css/)
 [<img algin="left" alt="JS" width="40px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fjs.png?alt=media&token=39dacac0-1a2b-49cd-b23b-0283cd713804" target="_blank"/>](https://www.w3schools.com/js/)
@@ -38,7 +40,7 @@
 
 
 <!-- Github Streak -->
-## 🎗️ My Profile Info 
+## 🎗️ My Profile Info 🎗️
 <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
