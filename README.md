@@ -23,7 +23,7 @@
 </div>
 <br/>
 
-<h1 align="center">💪 Techinical Skills 💪</h1>
+<h1 align="center">🔥 Techinical Skills 🔥</h1>
 <div align="center">
 
 [<img algin="left" alt="Html" width="50px" style="margin:0px 5px 0px 5px;" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fhtml.png?alt=media&token=c751d491-1f7c-4ec7-83c6-74860c8309e9" target="_blank"/>](https://www.w3schools.com/html/)
@@ -56,22 +56,23 @@
 
 <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%" />
     </a>
 </p>
 <br/>
 
  <p align="center">
-    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanOjha-git&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0" width = "90%" /></a>
+    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanOjha-git&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0" width = "100%" /></a>
 </p>
 <br/>
 
 <p align="center">
-    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0" width = "90%" /></a>
+    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0" width = "100%" /></a>
 </p>
+<br/>
 
  <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "90%" /></a>
+    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "100%" /></a>
 </p>
 <br/>
 
