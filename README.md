@@ -33,3 +33,9 @@
 [<img algin="left" alt="GitHub" width="35px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" style="border-radius:50%" target="_blank"/>](https://github.com/)
 [<img algin="left" alt="Figma" width="22px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Ffigma.svg?alt=media&token=c63f31ae-67c7-4275-9600-cb0594b4f64d" style="border-radius:50%" target="_blank"/>](https://www.figma.com/)
 [<img algin="left" alt="VScode" width="35px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fvscode.png?alt=media&token=c9b17b88-dbce-4dfe-9427-886cd1a9787f" style="border-radius:50%" target="_blank"/>](https://code.visualstudio.com/)
+[<img algin="left" alt="VScode" width="35px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fnotion.png?alt=media&token=1257cd4a-6508-4482-b3db-248790c1ef45" target="_blank"/>](https://code.visualstudio.com/)
+
+
+
+<!-- Github Streak -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomanOjha-git&theme=radical&hide_border=true&date_format=%5BY%20%5DM%20j&fire=DDA915)](https://git.io/streak-stats)
