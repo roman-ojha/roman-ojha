@@ -1,9 +1,10 @@
 <h1 align="center">Hi I'm Roman 👋</h1>
-<h1 align="center">I'm a Full Stack Web Developer, Flutter App Developr</h1>
+<h1 align="center">🖥️ I'm a Software Developer 🖥️</h1>
 
 <p align="center">
-  <img src="image/image01.jpg" style="border-radius:30px; height:300px;"/>
+  <img src="image/roundedImage01.png"/>
 </p>
+<br/>
 
 <div align="center">
 <h3>⚒️ I'm Working on the to build the Flutter & React Application ⚒️</h3>
