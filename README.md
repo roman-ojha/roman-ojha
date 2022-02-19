@@ -1,11 +1,14 @@
-# Hi I'm Roman 👋
+<h1 align="center">Hi I'm Roman 👋</h1>
+<h1 align="center">I'm a Full Stack Web Developer, Flutter App Developr</h1>
 
-## I'm a Full Stack Web Developer, Flutter App Developr
+<p align="center">
+  <img src="image/image01.jpg" style="border-radius:30px; height:300px;"/>
+</p>
+
 - ⚒️ I'm Working on the to build the Flutter & React Application
 - 🌱 I'm currently learning Blockchain development
 - More Info:
   - I Love to read non-fiction/fiction book
-
 
 ## 📞 Connect with me 📞
 [<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman_ojhaa/)
