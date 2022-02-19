@@ -48,10 +48,15 @@
 </p>
 
  <p align="center">
+    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "90%" /></a>
+</p>
+
+ <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanOjha-git&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0" width = "90%" /></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0" width = "90%" /></a>
 </p>
+
 
