@@ -8,10 +8,10 @@
 
 
 ## 📞 Connect with me 📞
-[<img algin="left" alt="insta" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman_ojhaa/)
-[<img algin="left" alt="Linkdin" width="26px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
-[<img algin="left" alt="Twitter" width="26px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
-[<img algin="left" alt="Github" width="30px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" style="border-radius:50%" target="_blank"/>](https://github.com/RomanOjha-git)
+[<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman_ojhaa/)
+[<img algin="left" alt="Linkdin" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
+[<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
+[<img algin="left" alt="Github" width="50px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" style="border-radius:50%" target="_blank"/>](https://github.com/RomanOjha-git)
 <br/>
 
 ## 💪 Techinical Skills 💪:
