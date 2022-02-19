@@ -10,6 +10,7 @@
 <h3>✒️ I'm currently learning Blockchain development ✒️</h3>
 <h3>📖 I Love to read non-fiction/fiction book 📖</h3>
 </div>
+<br/>
 
 <h1 align="center"> 📞 Connect with me 📞</h1>
 
@@ -20,6 +21,7 @@
 [<img algin="left" alt="Twitter" width="45px" style="margin:0px 10px 0px 10px;" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
 [<img algin="left" alt="Github" width="50px"  style="border-radius:50%; margin:0px 10px 0px 10px;" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" target="_blank"/>](https://github.com/RomanOjha-git)
 </div>
+<br/>
 
 <h1 align="center">💪 Techinical Skills 💪</h1>
 <div align="center">
@@ -47,25 +49,29 @@
 [<img algin="left" alt="VScode" width="50px" style="margin:0px 5px 0px 5px;" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fnotion.png?alt=media&token=1257cd4a-6508-4482-b3db-248790c1ef45" target="_blank"/>](https://code.visualstudio.com/)
 
 </div>
+<br/>
 
 <h1 align="center">🎗️ My Profile Info 🎗️</h1>
+<br/>
 
 <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "90%" />
     </a>
 </p>
-
- <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "90%" /></a>
-</p>
+<br/>
 
  <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanOjha-git&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0" width = "90%" /></a>
 </p>
+<br/>
 
 <p align="center">
     <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0" width = "90%" /></a>
 </p>
 
+ <p align="center">
+    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "90%" /></a>
+</p>
+<br/>
 
