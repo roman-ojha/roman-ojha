@@ -71,13 +71,13 @@ struct Node *createNode(char value[])
     n->right = NULL;
     return n;
 }
-void inOrder(struct Node *root)
+void inOrderTraversal(struct Node *root)
 {
     if (root != NULL)
     {
-        inOrder(root->left);
+        inOrderTraversal(root->left);
         cout << root->value << " ";
-        inOrder(root->right);
+        inOrderTraversal(root->right);
     }
 }
 int main()
@@ -90,7 +90,7 @@ int main()
     s1->left = s2;
     s1->right = s3;
     s2->left = s4;
-    inOrder(s1);
+    inOrderTraversal(s1);
     return 0;
 };
 ```
