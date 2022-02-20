@@ -20,7 +20,7 @@
 [<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman_ojhaa/)
 [<img algin="left" alt="Linkdin" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
 [<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
-[<img algin="left" alt="Github" width="50px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" target="_blank"/>](https://github.com/RomanOjha-git)
+[<img algin="left" alt="Github" width="50px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" target="_blank"/>](https://github.com/Roman-Ojha)
 </div>
 <br/>
 
@@ -100,22 +100,22 @@ int main()
 
 <h1 align="center">🎗️ My Profile Info 🎗️</h1>
 <div align="center">
-    <a href="https://github.com/RomanOjha-git/RomanOjha-git">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RomanOjha-git&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Roman-Ojha&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
     </a>
 </div>
 <br/>
 <div>
  <div align="center">
-    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomanOjha-git&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
 </div>
 <br/>
 <div align="center">
-    <a href="https://github.com/RomanOjha-git/RomanOjha-git"><img alt="Suraj's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=RomanOjha-git&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
 </div>
 </div>
 <br/>
  <!-- <p align="center">
-    <a href="https://github.com/uchiha-suraj/github-readme-activity-graph"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RomanOjha-git&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "100%" /></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Roman-Ojha&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "100%" /></a>
 </p>
 <br/> -->
