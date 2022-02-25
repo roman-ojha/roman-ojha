@@ -11,12 +11,14 @@
 <h2>📖 I Love to read non-fiction/fiction book 📖</h2>
 <h2>⚒️ Currently building: ⚒️</h2>
 
-[<h3>1. MVstreamer</h3>](https://github.com/Roman-Ojha/MVstreamer)
+[<h2>1. R-CLI</h2>](https://github.com/Roman-Ojha/R-CLI)
 
-[<h3>2. Social-Application</h3>](https://github.com/Roman-Ojha/Social-Application)
+[<h2>2. MVstreamer</h2>](https://github.com/Roman-Ojha/MVstreamer)
 
-[<h3>3. GetJson</h3>](https://github.com/Roman-Ojha/GetJson)
+[<h2>3. Social-Application</h2>](https://github.com/Roman-Ojha/Social-Application)
+
 </div>
+
 
 <h1 align="center"> 📞 Connect with me 📞</h1>
 
@@ -25,7 +27,7 @@
 [<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman__ojha/)
 [<img algin="left" alt="Linkdin" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
 [<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
-[<img algin="left" alt="Github" width="50px" src="https://firebasestorage.googleapis.com/v0/b/github-profile-91cbc.appspot.com/o/Icons%2Fgithub.png?alt=media&token=372efb42-2546-41ea-9c16-189cacca3ec8" target="_blank"/>](https://github.com/Roman-Ojha)
+[<img algin="left" alt="Github" width="50px" src="./Icons/github.png" target="_blank"/>](https://github.com/Roman-Ojha)
 </div>
 <br/>
 
