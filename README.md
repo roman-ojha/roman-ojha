@@ -1,7 +1,7 @@
 <img width=100% title="Roman Ojha" alt="Roman Ojha" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=header&text=Roman Ojha&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=20"/>
 <div align="center">
-
-[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Developer%F0%9F%92%BB;%F0%9F%93%B1Flutter+App+Developer%F0%9F%93%B1;Cpp+%26+Python+Programmer)](https://github.com/Roman-Ojha)
+  
+[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Developer%F0%9F%92%BB;%F0%9F%93%B1Flutter+App+Developer%F0%9F%93%B1;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBC%2B%2B%2FPython%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://github.com/Roman-Ojha)
 
 </div>
 <div align="center">
@@ -32,7 +32,7 @@
 [<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
 </div>
 
-<h1 align="center">🔥 Technical Skills 🔥</h1>
+<h1 align="center">💪 Technical Skills 💪</h1>
 <div align="center">
 
 [<img algin="left" alt="Html" width="50px" src="./Icons/html.png" target="_blank"/>](https://www.w3schools.com/html/)
@@ -116,7 +116,7 @@ int main()
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
 </div>
 <div align="center">
-    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🏆 Roman Github Trophy 🏆" alt="Roman Gihub Profile Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=Roman-Ojha&theme=radical&no-frame=true"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🏆 Roman Github Trophy 🏆" alt="Roman Gihub Profile Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=Roman-Ojha&theme=radical&no-frame=true&column=7"/></a>
 </div>
 <!-- &theme=radical&no-frame=true -->
  <!-- <p align="center">
