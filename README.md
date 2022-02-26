@@ -5,7 +5,8 @@
 
 </div>
 <div align="center">
-  <img src="image/roundedImage01.png"/>
+  <!-- <img src="image/roundedImage01.png"/> -->
+  <img width="100%" src="./image/coding02_rounded.gif"/>
 </div>
 <div align="center">
 
