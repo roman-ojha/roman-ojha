@@ -1,12 +1,11 @@
 <h1 align="center">Hi I'm Roman 👋</h1>
 <h1 align="center">🖥️ I'm a Software Developer 🖥️</h1>
 
-<p align="center">
-  <img src="image/roundedImage01.png"/>
-</p>
-<br/>
-
 <div align="center">
+  <img src="image/roundedImage01.png"/>
+</div>
+<div align="center">
+
 <h2>✒️ I'm currently learning Blockchain development ✒️</h2>
 <h2>📖 I Love to read non-fiction/fiction book 📖</h2>
 <h2>⚒️ Currently building: ⚒️</h2>
@@ -19,7 +18,6 @@
 
 </div>
 
-
 <h1 align="center"> 📞 Connect with me 📞</h1>
 
 <div align="center">
@@ -29,7 +27,6 @@
 [<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
 [<img algin="left" alt="Github" width="50px" src="./Icons/github.png" target="_blank"/>](https://github.com/Roman-Ojha)
 </div>
-<br/>
 
 <h1 align="center">🔥 Technical Skills 🔥</h1>
 <div align="center">
@@ -57,7 +54,6 @@
 [<img algin="left" alt="Notion" width="50px" src="./Icons/notion.png" target="_blank"/>](https://www.notion.so/)
 
 </div>
-<br/>
 
 <h2>
 <details>
@@ -103,29 +99,23 @@ int main()
 ```
 </details>
 </h2>
-<br/>
 
 <h1 align="center">🎗️ My Profile Info 🎗️</h1>
 <div align="center">
     <a href="https://github.com/Roman-Ojha/Roman-Ojha">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Suraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Roman-Ojha&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
+        <img title="🔥 Roman Gihub Streak Stats 🔥" alt="Roman Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Roman-Ojha&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
     </a>
 </div>
-<br/>
 <div>
  <div align="center">
-    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Top Languages" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="57%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="41.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=8&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
 </div>
-<br/>
 <div align="center">
-    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Github Stats" width="100%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🏆 Roman Github Trophy 🏆" alt="Roman Gihub Profile Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=Roman-Ojha&theme=radical&no-frame=true"/></a>
 </div>
-</div>
-<br/>
+
+<!-- &theme=radical&no-frame=true -->
  <!-- <p align="center">
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img alt="Suraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Roman-Ojha&bg_color=060A0CD0&color=9ce4e0&line=fd428d&point=FFFFFF&hide_border=true" width = "100%" /></a>
-</p>
-<br/> -->
-
-
-<!-- test commit to check does conflict happen whiel merging pull request -->
+</p> -->
