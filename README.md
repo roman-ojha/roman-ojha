@@ -14,20 +14,19 @@
 <h2>📖 I Love to read non-fiction/fiction book 📖</h2>
 <h2>⚒️ Currently building: ⚒️</h2>
 
-[<h2>1. R-CLI</h2>](https://github.com/Roman-Ojha/R-CLI)
+[<h2>1. Social-Application</h2>](https://github.com/Roman-Ojha/Social-Application)
 
 [<h2>2. MVstreamer</h2>](https://github.com/Roman-Ojha/MVstreamer)
 
-[<h2>3. Social-Application</h2>](https://github.com/Roman-Ojha/Social-Application)
 
 </div>
 
 <h1 align="center"> 📞 Connect with me 📞</h1>
 
 <div align="center">
+ <!-- [<img algin="left" alt="Goodreads" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Goodreads_logo_-_SuperTinyIcons.svg/2048px-Goodreads_logo_-_SuperTinyIcons.svg.png" target="_blank"/>](https://www.goodreads.com/user/show/131944828-roman-ojha) -->
 
 [<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png" target="_blank"/>](https://www.instagram.com/roman__ojha/)
- [<img algin="left" alt="Goodreads" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Goodreads_logo_-_SuperTinyIcons.svg/2048px-Goodreads_logo_-_SuperTinyIcons.svg.png" target="_blank"/>](https://www.goodreads.com/user/show/131944828-roman-ojha)
 [<img algin="left" alt="Linkdin" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" target="_blank"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
 [<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png" target="_blank"/>](https://twitter.com/RomanOjha1)
 </div>
@@ -55,7 +54,7 @@
 [<img algin="left" alt="GitHub" width="50px" src="./Icons/github.png" target="_blank"/>](https://github.com/)
 [<img algin="left" alt="Figma" width="35px" src="./Icons/figma.svg" style="border-radius:50%" target="_blank"/>](https://www.figma.com/)
 [<img algin="left" alt="VScode" width="50px" src="./Icons/vscode.png" style="border-radius:50%" target="_blank"/>](https://code.visualstudio.com/)
-[<img algin="left" alt="Notion" width="50px" src="./Icons/notion.png" target="_blank"/>](https://www.notion.so/)
+<!-- [<img algin="left" alt="Notion" width="50px" src="./Icons/notion.png" target="_blank"/>](https://www.notion.so/) -->
 
 </div>
 
