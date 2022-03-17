@@ -11,8 +11,8 @@
 <div align="center">
 
 <h2>✒️ I'm currently learning Blockchain development ✒️</h2>
-<h2>📖 I Love to read non-fiction/fiction book 📖</h2>
-<h2>⚒️ Currently building: ⚒️</h2>
+<!-- <h2>📖 I Love to read non-fiction/fiction book 📖</h2> -->
+<h2>⚒️ Currently building Apps: ⚒️</h2>
 
 [<h2>1. Social-Application</h2>](https://github.com/Roman-Ojha/Social-Application)
 
@@ -49,17 +49,17 @@
 [<img algin="left" alt="Cpp" width="45px" src="./Icons/cpp.png" target="_blank"/>](https://www.cprogramming.com/)
 [<img algin="left" alt="Python" width="45px" src="./Icons/python.png" target="_blank"/>](https://www.python.org/)
 [<img algin="left" alt="Django" width="50px" src="./Icons/django.png" target="_blank"/>](https://www.djangoproject.com/)
-[<img algin="left" alt="Solidity" width="35px" src="./Icons/solidity.png" target="_blank"/>](https://soliditylang.org/)
+[<img algin="left" alt="Solidity" width="33px" src="./Icons/solidity.png" target="_blank"/>](https://soliditylang.org/)
 [<img algin="left" alt="Docker" width="60px" src="./Icons/docker.png" target="_blank"/>](https://www.docker.com/)
-[<img algin="left" alt="snowpack" width="50px" src="./Icons/snowpack.png" target="_blank"/>](https://www.snowpack.dev/)
 [<img algin="left" alt="GitHub" width="50px" src="./Icons/github.png" target="_blank"/>](https://github.com/)
 [<img algin="left" alt="Figma" width="35px" src="./Icons/figma.svg" style="border-radius:50%" target="_blank"/>](https://www.figma.com/)
 [<img algin="left" alt="VScode" width="50px" src="./Icons/vscode.png" style="border-radius:50%" target="_blank"/>](https://code.visualstudio.com/)
+<!-- [<img algin="left" alt="snowpack" width="50px" src="./Icons/snowpack.png" target="_blank"/>](https://www.snowpack.dev/) -->
 <!-- [<img algin="left" alt="Notion" width="50px" src="./Icons/notion.png" target="_blank"/>](https://www.notion.so/) -->
 
 </div>
 
-<h2>
+<!-- <h2>
 <details>
 <summary align="center">Dry run and get the desirable output:</summary>
 
@@ -102,7 +102,7 @@ int main()
 };
 ```
 </details>
-</h2>
+</h2> -->
 
 <h1 align="center">🎗️ My Profile Info 🎗️</h1>
 <div align="center">
