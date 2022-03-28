@@ -42,6 +42,7 @@
 [<img algin="left" alt="NextJS" width="50px" src="./Icons/nextJS.png" target="_blank"/>](https://nextjs.org/)
 [<img algin="left" alt="MongoDB" width="50px" src="./Icons/mongoDB.png" target="_blank"/>](https://www.mongodb.com/)
 [<img algin="left" alt="Sass" width="50px" src="./Icons/sass.png" target="_blank"/>](https://sass-lang.com/)
+[<img algin="left" alt="TailwindCSS" width="50px" src="./Icons/tailwindCSS.png" target="_blank"/>](https://tailwindcss.com/)
 [<img algin="left" alt="GraphQL" width="45px" src="./Icons/graphQL.png" target="_blank"/>](https://graphql.org/)
 [<img algin="left" alt="Flutter" width="45px" src="./Icons/flutter.png" target="_blank"/>](https://flutter.dev/)
 [<img algin="left" alt="Dart" width="45px" src="./Icons/dart.png" target="_blank"/>](https://dart.dev/)
