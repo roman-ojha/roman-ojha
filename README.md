@@ -54,7 +54,7 @@
 [<img alt="Truffle" width="45px" src="./Icons/truffle.png"/>](https://trufflesuite.com/)
 [<img alt="Web3.js" width="60px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
 [<img alt="Docker" width="60px" src="./Icons/docker.png"/>](https://www.docker.com/)
-[<img alt="GitHub" width="48px" src="./Icons/git.png"/>](https://github.com/)
+[<img alt="GitHub" width="48px" src="./Icons/github.png"/>](https://github.com/)
 [<img alt="Figma" width="33px" src="./Icons/figma.svg" style="border-radius:50%"/>](https://www.figma.com/)
 [<img alt="VScode" width="48px" src="./Icons/vscode.png" style="border-radius:50%"/>](https://code.visualstudio.com/)
 
