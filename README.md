@@ -35,9 +35,10 @@
 [<img alt="Css" width="35px" src="./Icons/css.png"/>](https://www.w3schools.com/css/)
 [<img alt="JavaScript" width="40px" src="./Icons/js.png"/>](https://www.w3schools.com/js/)
 [<img alt="TypeScript" width="40px" src="./Icons/typescript.png"/>](https://www.typescriptlang.org/docs/)
-[<img alt="Node" width="60px" src="./Icons/node.png"/>](https://nodejs.org/en/)
 [<img alt="React" width="65px" src="./Icons/react.png"/>](https://reactjs.org/)
 [<img alt="NextJS" width="45px" src="./Icons/nextJS.png"/>](https://nextjs.org/)
+[<img alt="Node" width="60px" src="./Icons/node.png"/>](https://nodejs.org/en/)
+[<img alt="Redis" width="55px" src="./Icons/redis.png"/>](https://redis.io/)
 [<img alt="MongoDB" width="45px" src="./Icons/mongoDB.png"/>](https://www.mongodb.com/)
 [<img alt="Sass" width="50px" src="./Icons/sass.png"/>](https://sass-lang.com/)
 [<img alt="TailwindCSS" width="55px" src="./Icons/tailwindCSS.png"/>](https://tailwindcss.com/)
@@ -54,10 +55,10 @@
 [<img alt="Truffle" width="45px" src="./Icons/truffle.png"/>](https://trufflesuite.com/)
 [<img alt="Web3.js" width="60px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
 [<img alt="Docker" width="60px" src="./Icons/docker.png"/>](https://www.docker.com/)
-[<img alt="VScode" width="45px" src="./Icons/vim.png" style="border-radius:50%"/>](https://code.visualstudio.com/)
+[<img alt="Vim" width="45px" src="./Icons/vim.png" style="border-radius:50%"/>](https://www.vim.org/)
 [<img alt="GitHub" width="48px" src="./Icons/github.png"/>](https://github.com/)
 [<img alt="Figma" width="33px" src="./Icons/figma.svg" style="border-radius:50%"/>](https://www.figma.com/)
-[<img alt="VScode" width="48px" src="./Icons/vscode.png" style="border-radius:50%"/>](https://code.visualstudio.com/)
+[<img alt="VScode" width="48px" src="./Icons/vscode.png"/>](https://code.visualstudio.com/)
 
 </div>
 
