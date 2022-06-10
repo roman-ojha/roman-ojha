@@ -33,9 +33,10 @@
 [<img alt="JavaScript" width="40px" src="./Icons/js.png"/>](https://www.w3schools.com/js/)
 [<img alt="TypeScript" width="40px" src="./Icons/typescript.png"/>](https://www.typescriptlang.org/docs/)
 [<img alt="React" width="65px" src="./Icons/react.png"/>](https://reactjs.org/)
-[<img alt="NextJS" width="45px" src="./Icons/nextJS.png"/>](https://nextjs.org/)
+[<img alt="NextJS" width="43px" src="./Icons/nextJS.png"/>](https://nextjs.org/)
+[<img alt="Vue" width="43px" src="./Icons/vue.png"/>](https://vuejs.org/)
 [<img alt="Node" width="60px" src="./Icons/node.png"/>](https://nodejs.org/en/)
-[<img alt="Redis" width="55px" src="./Icons/redis.png"/>](https://redis.io/)
+[<img alt="Redis" width="50px" src="./Icons/redis.png"/>](https://redis.io/)
 [<img alt="MongoDB" width="45px" src="./Icons/mongoDB.png"/>](https://www.mongodb.com/)
 [<img alt="Sass" width="50px" src="./Icons/sass.png"/>](https://sass-lang.com/)
 [<img alt="TailwindCSS" width="55px" src="./Icons/tailwindCSS.png"/>](https://tailwindcss.com/)
@@ -66,7 +67,6 @@
         <img title="🔥 Roman Gihub Streak Stats 🔥" alt="Roman Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Roman-Ojha&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
     </a>
 </div>
-<div>
  <div align="center">
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
