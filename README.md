@@ -68,7 +68,7 @@
     </a>
 </div>
  <div align="center">
-    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&include_all_commits=true&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0"/></a>
 </div>
 <div align="center">
