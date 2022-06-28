@@ -43,6 +43,7 @@
 [<img alt="GraphQL" width="45px" src="./Icons/graphQL.png"/>](https://graphql.org/)
 [<img alt="Dart" width="45px" src="./Icons/dart.png"/>](https://dart.dev/)
 [<img alt="Flutter" width="45px" src="./Icons/flutter.png"/>](https://flutter.dev/)
+[<img alt="React-Native" width="43px" src="./Icons/react-native.png"/>](https://reactnative.dev/)
 [<img alt="Electron" width="48px" src="./Icons/electron.png"/>](https://www.electronjs.org/)
 [<img alt="Firebase" width="50px" src="./Icons/firebase.png"/>](https://firebase.google.com/)
 [<img alt="C" width="45px" src="./Icons/c.png"/>](https://www.cprogramming.com/)
