@@ -1,7 +1,7 @@
 <img width=100% title="Roman Ojha" alt="Roman Ojha" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=header&text=Roman Ojha&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=20"/>
 <div align="center">
   
-[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Dev%F0%9F%92%BB;%F0%9F%93%B1Flutter%F0%9F%93%B1;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BBC%2B%2B%2FPython%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://github.com/Roman-Ojha)
+[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Dev%F0%9F%92%BB;%F0%9F%94%97Blockchain+Dev%E2%9B%93%EF%B8%8F;%F0%9F%93%B1App+Dev%F0%9F%93%B1)](https://github.com/Roman-Ojha)
 
 </div>
 <div align="center">
@@ -9,9 +9,7 @@
 </div>
 <div align="center">
 
-<h2>⚒️ Currently building Apps: ⚒️</h2>
-
-[<h2>Social</h2>](https://github.com/Roman-Ojha/Social)
+<!-- <h2>⚒️ Currently building Apps: ⚒️</h2> -->
 
 </div>
 
