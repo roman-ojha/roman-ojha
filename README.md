@@ -23,7 +23,7 @@
 
 </div>
 
-<h1 align="center">💪 Technical Skills 💪</h1>
+<h1 align="center">⚙️ Tools & Technologies ⚙️</h1>
 <div align="center">
 
 [<img alt="Html" width="45px" src="./Icons/html.png"/>](https://www.w3schools.com/html/)
@@ -37,6 +37,7 @@
 [<img alt="Redis" width="45px" src="./Icons/redis.png"/>](https://redis.io/)
 [<img alt="MongoDB" width="40px" src="./Icons/mongoDB.png"/>](https://www.mongodb.com/)
 [<img alt="PostgreSQL" width="38px" src="./Icons/postgres.png"/>](https://www.postgresql.org/)
+[<img alt="Prisma" width="40px" src="./Icons/prisma.png"/>](https://www.prisma.io/)
 [<img alt="Sass" width="48px" src="./Icons/sass.png"/>](https://sass-lang.com/)
 [<img alt="TailwindCSS" width="51px" src="./Icons/tailwindCSS.png"/>](https://tailwindcss.com/)
 [<img alt="GraphQL" width="43px" src="./Icons/graphQL.png"/>](https://graphql.org/)
@@ -57,6 +58,8 @@
 [<img alt="Docker" width="53px" src="./Icons/docker.png"/>](https://www.docker.com/)
 [<img alt="DigitalOcean" width="41px" src="./Icons/digitalocean.png"/>](https://www.digitalocean.com/)
 [<img alt="GitHub" width="42px" src="./Icons/github.png"/>](https://github.com/)
+[<img alt="GitHub Action" width="42px" src="./Icons/github_actions.png"/>](https://github.com/features/actions)
+[<img alt="Git" width="40px" src="./Icons/git.png"/>](https://git-scm.com/)
 [<img alt="Figma" width="28px" src="./Icons/figma.svg" style="border-radius:50%"/>](https://www.figma.com/)
 [<img alt="VScode" width="42px" src="./Icons/vscode.png"/>](https://code.visualstudio.com/)
 [<img alt="Vim" width="43px" src="./Icons/vim.png" style="border-radius:50%"/>](https://www.vim.org/)
