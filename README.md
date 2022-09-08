@@ -19,7 +19,7 @@
 
 [<img algin="left" alt="insta" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1024px-Instagram_icon.png"/>](https://www.instagram.com/roman__ojha/)
 [<img algin="left" alt="Linkdin" width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>](https://www.linkedin.com/in/roman-ojha-3b8bb2209/)
-[<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png"/>](https://twitter.com/RomanOjha1)
+[<img algin="left" alt="Twitter" width="45px" src="https://www.iconpacks.net/icons/2/free-twitter-logo-icon-2429-thumb.png"/>](https://twitter.com/roman__ojha)
 
 </div>
 
