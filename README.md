@@ -57,7 +57,7 @@
 [<img alt="Solidity" width="19px" src="./Icons/solidity.png"/>](https://soliditylang.org/)
 [<img alt="Truffle" width="30px" src="./Icons/truffle.png"/>](https://trufflesuite.com/)
 [<img alt="Hardhat" width="35px" src="./Icons/hardhat.png"/>](https://hardhat.org/)
-[<img alt="Web3.js" width="40px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
+[<img alt="Web3.js" width="32px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
 [<img alt="ethers.js" width="45px" src="./Icons/etherJs.png"/>](https://docs.ethers.io/v5/)
 [<img alt="Docker" width="41px" src="./Icons/docker.png"/>](https://www.docker.com/)
 <!-- [<img alt="DigitalOcean" width="31px" src="./Icons/digitalocean.png"/>](https://www.digitalocean.com/) -->
