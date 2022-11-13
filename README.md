@@ -1,4 +1,4 @@
-<img width=100% title="Roman Ojha" alt="Roman Ojha" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=header&text=roman-ojha&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=20"/>
+<img width=100% title="Roman Ojha" alt="Roman Ojha" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=header&text=Roman%20Ojha&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=20"/>
 <div align="center">
   
 [![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Dev%F0%9F%92%BB;%F0%9F%94%97Blockchain+Dev%E2%9B%93%EF%B8%8F;%F0%9F%93%B1App+Dev%F0%9F%93%B1)](https://github.com/Roman-Ojha)
@@ -79,7 +79,7 @@
 </div>
  <div align="center">
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="60%" src="https://github-readme-stats.vercel.app/api?username=Roman-Ojha&include_all_commits=true&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
-    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0&hide=CMake,Java"/></a>
+    <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="38.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roman-Ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0&hide=CMake,Java&custom_title=%E2%9A%A1%20Roman's%20Top%20Language"/></a>
 </div>
 <div align="center">
     <a href="https://github.com/Roman-Ojha/Roman-Ojha"><img title="🏆 Roman Github Trophy 🏆" alt="Roman Gihub Profile Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=Roman-Ojha&theme=radical&no-frame=true&column=7"/></a>
