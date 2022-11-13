@@ -42,7 +42,7 @@
 [<img alt="Sass" width="37px" src="./Icons/sass.png"/>](https://sass-lang.com/)
 [<img alt="TailwindCSS" width="40px" src="./Icons/tailwindCSS.png"/>](https://tailwindcss.com/)
 [<img alt="GraphQL" width="31px" src="./Icons/graphQL.png"/>](https://graphql.org/)
-<!-- [<img alt="PHP" width="49px" src="./Icons/php.png"/>](https://www.php.net/) -->
+[<img alt="PHP" width="49px" src="./Icons/php.png"/>](https://www.php.net/)
 [<img alt="Dart" width="31px" src="./Icons/dart.png"/>](https://dart.dev/)
 [<img alt="Flutter" width="30px" src="./Icons/flutter.png"/>](https://flutter.dev/)
 [<img alt="React-Native" width="29px" src="./Icons/react-native.png"/>](https://reactnative.dev/)
@@ -60,7 +60,6 @@
 [<img alt="Web3.js" width="32px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
 [<img alt="ethers.js" width="45px" src="./Icons/etherJs.png"/>](https://docs.ethers.io/v5/)
 [<img alt="Docker" width="41px" src="./Icons/docker.png"/>](https://www.docker.com/)
-<!-- [<img alt="DigitalOcean" width="31px" src="./Icons/digitalocean.png"/>](https://www.digitalocean.com/) -->
 [<img alt="Jest" width="29px" src="./Icons/Jest.png"/>](https://jestjs.io/)
 [<img alt="GitHub" width="31px" src="./Icons/github.png"/>](https://github.com/)
 [<img alt="GitHub Action" width="31px" src="./Icons/github_actions.png"/>](https://github.com/features/actions)
