@@ -47,7 +47,6 @@
 [<img alt="Flutter" width="30px" src="./Icons/flutter.png"/>](https://flutter.dev/)
 [<img alt="React-Native" width="29px" src="./Icons/react-native.png"/>](https://reactnative.dev/)
 [<img alt="Electron" width="34px" src="./Icons/electron.png"/>](https://www.electronjs.org/)
-[<img alt="Firebase" width="35px" src="./Icons/firebase.png"/>](https://firebase.google.com/)
 [<img alt="C" width="29px" src="./Icons/c.png"/>](https://www.cprogramming.com/)
 [<img alt="Cpp" width="29px" src="./Icons/cpp.png"/>](https://www.cprogramming.com/)
 [<img alt="Python" width="30px" src="./Icons/python.png"/>](https://www.python.org/)
