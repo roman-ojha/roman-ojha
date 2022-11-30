@@ -43,6 +43,7 @@
 [<img alt="TailwindCSS" width="40px" src="./Icons/tailwindCSS.png"/>](https://tailwindcss.com/)
 [<img alt="GraphQL" width="31px" src="./Icons/graphQL.png"/>](https://graphql.org/)
 [<img alt="PHP" width="49px" src="./Icons/php.png"/>](https://www.php.net/)
+[<img alt="Laravel" width="30px" src="./Icons/laravel.png"/>](https://laravel.com/)
 [<img alt="Dart" width="31px" src="./Icons/dart.png"/>](https://dart.dev/)
 [<img alt="Flutter" width="30px" src="./Icons/flutter.png"/>](https://flutter.dev/)
 [<img alt="React-Native" width="29px" src="./Icons/react-native.png"/>](https://reactnative.dev/)
