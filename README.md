@@ -52,6 +52,7 @@
 [<img alt="Cpp" width="29px" src="./Icons/cpp.png"/>](https://www.cprogramming.com/)
 [<img alt="Python" width="30px" src="./Icons/python.png"/>](https://www.python.org/)
 [<img alt="Django" width="33px" src="./Icons/django.png"/>](https://www.djangoproject.com/)
+[<img alt="RestFramework" width="75px" src="./Icons/rest-framework.png"/>](https://www.django-rest-framework.org/)
 [<img alt="Nginx" width="29px" src="./Icons/nginx.png"/>](https://www.nginx.com/)
 [<img alt="Ethereum" width="20px" src="./Icons/ethereum.png"/>](https://ethereum.org/en/)
 [<img alt="Solidity" width="19px" src="./Icons/solidity.png"/>](https://soliditylang.org/)
