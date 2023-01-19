@@ -74,7 +74,7 @@
 <h1 align="center">🎗️ My Profile Info 🎗️</h1>
 <div align="center">
     <a href="https://github.com/roman-ojha/roman-ojha">
-        <img title="🔥 Roman Gihub Streak Stats 🔥" alt="Roman Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=roman-ojha&theme=radical&hide_border=true&stroke=0000&background=060A0CD0" width = "100%"/>
+        <img title="🔥 Roman Gihub Streak Stats 🔥" alt="Roman Github Streak" src="https://streak-stats.demolab.com/?user=roman-ojha&theme=radical&hide_border=true&border_radius=5&stroke=0000&background=060A0CD0" width = "100%"/>
     </a>
 </div>
  <div align="center">
