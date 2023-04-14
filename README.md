@@ -82,6 +82,13 @@
     <a href="https://github.com/roman-ojha/roman-ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="60%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=roman-ojha&include_all_commits=true&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
     <a href="https://github.com/roman-ojha/roman-ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="38.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roman-ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0&hide=CMake,Java&custom_title=%E2%9A%A1%20Roman's%20Top%20Language"/></a>
 </div>
+ <!-- <div align="center">
+    <a href="https://github.com/roman-ojha/roman-ojha"><img title="💪 Roman Github Stats 💪" alt="Roman Github Stats" width="100%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=roman-ojha&include_all_commits=true&theme=radical&hide_border=true&show_icons=true&bg_color=060A0CD0"/></a>
+</div>
+<div>
+    <a href="https://github.com/roman-ojha/roman-ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roman-ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0&custom_title=%E2%9A%A1%20Roman's%20Top%20Language"/></a>
+    <a href="https://github.com/roman-ojha/roman-ojha"><img title="🗝️ Roman Top Language 🗝️" alt="Roman Top Language" width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=roman-ojha&langs_count=10&count_private=true&layout=compact&theme=radical&hide_border=true&bg_color=060A0CD0&hide=Python,Javascript,HTML,Typescript,CSS,Dart,C,PHP,Java,C%2B%2B&custom_title=%E2%9A%A1%20Roman's%20Top%20Language"/></a>
+</div> -->
 <div align="center">
     <a href="https://github.com/roman-ojha/roman-ojha"><img title="🏆 Roman Github Trophy 🏆" alt="Roman Gihub Profile Trophy" width="100%" src="https://github-profile-trophy.vercel.app/?username=roman-ojha&theme=radical&no-frame=true&column=7"/></a>
 </div>
