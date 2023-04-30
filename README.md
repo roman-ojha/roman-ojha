@@ -50,6 +50,7 @@
 [<img alt="Electron" width="34px" src="./Icons/electron.png"/>](https://www.electronjs.org/)
 [<img alt="C" width="29px" src="./Icons/c.png"/>](https://www.cprogramming.com/)
 [<img alt="Cpp" width="29px" src="./Icons/cpp.png"/>](https://www.cprogramming.com/)
+[<img alt="CSharp" width="29px" src="./Icons/cSharp.png"/>](https://dotnet.microsoft.com/en-us/languages/csharp)
 [<img alt="Python" width="30px" src="./Icons/python.png"/>](https://www.python.org/)
 [<img alt="Django" width="33px" src="./Icons/django.png"/>](https://www.djangoproject.com/)
 [<img alt="RestFramework" width="75px" src="./Icons/rest-framework.png"/>](https://www.django-rest-framework.org/)
@@ -65,9 +66,10 @@
 [<img alt="GitHub" width="31px" src="./Icons/github.png"/>](https://github.com/)
 [<img alt="GitHub Action" width="31px" src="./Icons/github_actions.png"/>](https://github.com/features/actions)
 [<img alt="Git" width="31px" src="./Icons/git.png"/>](https://git-scm.com/)
-[<img alt="Figma" width="20px" src="./Icons/figma.svg" style="border-radius:50%"/>](https://www.figma.com/)
+[<img alt="Figma" width="20px" src="./Icons/figma.svg"/>](https://www.figma.com/)
 [<img alt="VScode" width="31px" src="./Icons/vscode.png"/>](https://code.visualstudio.com/)
-[<img alt="Vim" width="32px" src="./Icons/vim.png" style="border-radius:50%"/>](https://www.vim.org/)
+[<img alt="Neovim" width="27px" src="./Icons/neovim.png"/>](https://neovim.io/)
+[<img alt="Visual Studio" width="33px" src="./Icons/visual-studio.png" style="border-radius:50%"/>](https://neovim.io/)
 
 </div>
 
