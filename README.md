@@ -1,7 +1,7 @@
 <img width=100% title="Roman Ojha" alt="Roman Ojha" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=125&section=header&text=roman%20ojha&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=20"/>
 <div align="center">
   
-[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Dev%F0%9F%92%BB;%F0%9F%93%B1App+Dev%F0%9F%93%B1;%F0%9F%94%97Blockchain+Dev%E2%9B%93%EF%B8%8F;)](https://github.com/roman-ojha)
+[![Decs](https://readme-typing-svg.herokuapp.com?font=Lobster&height=40&width=500&size=35&duration=3000&center=true&vCenter=true&lines=%F0%9F%92%BBFull+Stack+Web+Dev%F0%9F%92%BB;%F0%9F%93%B1App+Dev%F0%9F%93%B1;)](https://github.com/roman-ojha)
 
 </div>
 <div align="center">
@@ -55,12 +55,7 @@
 [<img alt="Django" width="33px" src="./Icons/django.png"/>](https://www.djangoproject.com/)
 [<img alt="RestFramework" width="75px" src="./Icons/rest-framework.png"/>](https://www.django-rest-framework.org/)
 [<img alt="Nginx" width="29px" src="./Icons/nginx.png"/>](https://www.nginx.com/)
-[<img alt="Ethereum" width="20px" src="./Icons/ethereum.png"/>](https://ethereum.org/en/)
 [<img alt="Solidity" width="19px" src="./Icons/solidity.png"/>](https://soliditylang.org/)
-[<img alt="Truffle" width="30px" src="./Icons/truffle.png"/>](https://trufflesuite.com/)
-[<img alt="Hardhat" width="35px" src="./Icons/hardhat.png"/>](https://hardhat.org/)
-[<img alt="Web3.js" width="32px" src="./Icons/web3Js.png"/>](https://web3js.readthedocs.io/)
-[<img alt="ethers.js" width="45px" src="./Icons/etherJs.png"/>](https://docs.ethers.io/v5/)
 [<img alt="Docker" width="41px" src="./Icons/docker.png"/>](https://www.docker.com/)
 [<img alt="Jest" width="29px" src="./Icons/Jest.png"/>](https://jestjs.io/)
 [<img alt="GitHub" width="31px" src="./Icons/github.png"/>](https://github.com/)
