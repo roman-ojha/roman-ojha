@@ -57,6 +57,7 @@
 [<img alt="Nginx" width="29px" src="./Icons/nginx.png"/>](https://www.nginx.com/)
 [<img alt="Solidity" width="19px" src="./Icons/solidity.png"/>](https://soliditylang.org/)
 [<img alt="Docker" width="41px" src="./Icons/docker.png"/>](https://www.docker.com/)
+[<img alt="Kubernetes" width="35px" src="./Icons/kubernetes.png"/>](https://www.docker.com/)
 [<img alt="Jest" width="29px" src="./Icons/Jest.png"/>](https://jestjs.io/)
 [<img alt="GitHub" width="31px" src="./Icons/github.png"/>](https://github.com/)
 [<img alt="GitHub Action" width="31px" src="./Icons/github_actions.png"/>](https://github.com/features/actions)
